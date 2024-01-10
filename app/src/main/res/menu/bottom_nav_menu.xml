@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/logrosFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/logros_bottom"
+        android:title="LOGROS" />
+    <item
+        android:id="@+id/inicioFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/inicio_bottom"
+        android:title="INICIO" />
+    <item
+        android:id="@+id/rewardsFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/rewards_bottom"
+        android:title="REWARDS" />
+</menu>
